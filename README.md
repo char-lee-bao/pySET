@@ -7,6 +7,7 @@ SET is a card game based on pattern recognition. The game consist of 81 unique c
 * Shapes (diamonds, squiggles, or ovals)
 * Shading (solid, striped, or open)
 * Color (red, green, or purple)
+
 The goal of the game focuses on identifying SETs. A combination of three cards are defined to be a SET for which in each of the four properties, the three cards must either be all the same or all different for that property.
 
 Click three cards to identify a SET. Click the Give Hint button to highlight cards that are a SET if one is on board.
